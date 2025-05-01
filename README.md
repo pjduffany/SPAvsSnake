@@ -1,4 +1,4 @@
-Shortest Path Algorithms vs the Big Freaking Snake!
+# Shortest Path Algorithms vs the Big Freaking Snake!
 
 Snake Game implementation in java for CS253 (Data Structures & Algorithms) showcasing three SPA's (BFS, DFS, & A*)
 
